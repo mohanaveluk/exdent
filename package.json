@@ -1,0 +1,10 @@
+{
+    "name":"initianexercise",
+    "version":"1.0.0",
+    "description":"Initial files",
+    "main":"index.js",
+    "script":{
+        "start":"node index",
+        "dev":"nodeman index"
+    }
+}
